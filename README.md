@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Corks Whisky Showcase
 
 A modern, responsive web application showcasing Scottish whisky distilleries with multilingual support (English/Chinese).
@@ -195,6 +194,3 @@ src/
 - Add virtual distillery tours
 - Implement authentication system
 - Add user favorites and collections
-=======
-# corks-web
->>>>>>> 054df5a0203b340420acc632cdf3c2564a6d37cb
